@@ -3,3 +3,10 @@
 <navigator url="../demo2/demo2?name=小明&age=18">小明</navigator>
 
 <navigator url="../demo2/demo2?name=小红">小红</navigator>
+
+
+<!-- 
+    页面间参数传递
+        1.传     跳转链接上加 ? 参数
+        2.接收   onload 的的第一个参数（对象）
+ -->
