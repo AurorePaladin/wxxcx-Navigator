@@ -1,1 +1,5 @@
 <navigator url="../demo2/demo2">go demo2 page</navigator>
+
+<navigator url="../demo2/demo2?name=小明&age=18">小明</navigator>
+
+<navigator url="../demo2/demo2?name=小红">小红</navigator>
