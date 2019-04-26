@@ -8,6 +8,15 @@ Page({
 
   },
 
+  backHandle: function () {
+    // 默认返回到上一页
+    // wx.navigateBack()
+
+    wx.navigateBack({
+      delta: 2
+    })
+  },
+
   /**
    * 生命周期函数--监听页面加载
    */

@@ -14,6 +14,19 @@ Page({
     
   },
 
+  tapHandle: function () {
+    // 当我们点击按钮 系统会自动执行这里的代码
+    // console.log(11223)
+    wx.navigateTo({
+      url: '../demo2/demo2'
+    })
+
+    // wx.redirectTo({
+    //   url: '../demo2/demo2' // 相当于加上 redirect的 navigator
+    // })
+
+  },
+
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
