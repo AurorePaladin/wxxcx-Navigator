@@ -12,3 +12,12 @@
  -->
 
  <navigator url="../demo2/demo2" redirect>跳转过去（不回来了）</navigator>
+
+ <navigator hover-class='red'>点我点我</navigator>
+
+ <navigator hover-class='none'>点我点我</navigator>
+
+
+<!-- cursor pointer 的方式是一个 可以让 任何 元素点击时高亮 无法修改高亮样式 -->
+
+<image class='hover-class' src="../image/The Flash.jpg"></image>
