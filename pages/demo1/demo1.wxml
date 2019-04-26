@@ -10,3 +10,5 @@
         1.传     跳转链接上加 ? 参数
         2.接收   onload 的的第一个参数（对象）
  -->
+
+ <navigator url="../demo2/demo2" redirect>跳转过去（不回来了）</navigator>
